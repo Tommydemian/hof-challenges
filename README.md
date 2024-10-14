@@ -1,8 +1,6 @@
 # Callbacks and Higher-Order Functions
 
-This project contains a series of challenges focused on higher-order functions in JavaScript/TypeScript. It's designed to help you deepen your understanding of functional programming concepts, specifically Higher-Order Functions and Array manipulation.
-
-## Directory Structure
+This project contains a series of challenges focused on higher-order functions in JavaScript/TypeScript. It's designed to help you deepen your understanding of functional programming concepts, specially Higher-Order Functions and Array manipulation.
 
 ## Getting Started
 
