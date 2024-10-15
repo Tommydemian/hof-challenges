@@ -45,9 +45,6 @@ For a detailed description of each challenge, please see [CHALLENGES.md](./CHALL
 8. **union**: Combine unique elements from multiple arrays
 9. **objOfMatches**: Build an object based on matching elements
 10. **multiMap**: Create a multi-mapped object
-11. **objectFilter**: Filter object properties
-12. **majority**: Determine if majority of elements pass a test
-13. **prioritize**: Reorder array based on a condition
 
 ## Tips
 
